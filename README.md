@@ -1,2 +1,0 @@
-# glazing-ninja
-Learning purposes
